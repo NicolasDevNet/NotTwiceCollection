@@ -13,7 +13,7 @@
     "name": "NotTwice, NFO."
   },
   "dependencies": {
-    "com.mathijsbakker.extenject": "9.2.0",
-    "com.cysharp.unitask": "2.3.3"
+    "com.mathijsbakker.extenject": "https://github.com/NicolasDevNet/AssetsCollection.git?path=com.mathijsbakker.extenject",
+    "com.cysharp.unitask": "https://github.com/NicolasDevNet/AssetsCollection.git?path=com.cysharp.unitask"
   }
 }
