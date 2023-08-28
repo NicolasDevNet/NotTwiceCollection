@@ -14,9 +14,9 @@
     "name": "NotTwice, NFO."
   },
   "dependencies": {
-    "com.mathijsbakker.extenject": "9.2.0",
-    "com.cysharp.unitask": "2.3.3",
-    "com.nottwice.up.addressables": "1.1.1",
-    "com.neuecc.unirx": "7.1.0"
+    "com.mathijsbakker.extenject": "https://github.com/NicolasDevNet/AssetsCollection.git?path=com.mathijsbakker.extenject",
+    "com.cysharp.unitask": "https://github.com/NicolasDevNet/AssetsCollection.git?path=com.cysharp.unitask",
+    "com.nottwice.up.addressables": "https://github.com/NicolasDevNet/NotTwiceCollection.git?path=com.nottwice.up.addressables",
+    "com.neuecc.unirx": "https://github.com/NicolasDevNet/AssetsCollection.git?path=com.neuecc.unirx"
   }
 }
