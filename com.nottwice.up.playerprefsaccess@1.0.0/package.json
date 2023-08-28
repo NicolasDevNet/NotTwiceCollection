@@ -1,0 +1,18 @@
+{
+  "name": "com.nottwice.up.playerprefsaccess",
+  "version": "1.0.0",
+  "unity": "2021.3",
+  "unityRelease": "15f1",
+  "displayName": "NotTwice Player Prefs Access",
+  "description": "NotTwice Player Prefs Access provides gateways and wrappers to facilitate interaction with player prefs data",
+  "keywords": [
+    "playerprefs"
+  ],
+  "author": {
+    "name": "NotTwice, NFO."
+  },
+  "dependencies": {
+    "com.mathijsbakker.extenject": "9.2.0",
+    "com.cysharp.memorypack": "1.9.16"
+  }
+}

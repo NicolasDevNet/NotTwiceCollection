@@ -1,0 +1,19 @@
+{
+  "name": "com.nottwice.up.mediator",
+  "version": "1.1.0",
+  "unity": "2021.3",
+  "unityRelease": "15f1",
+  "displayName": "NotTwice Mediator",
+  "description": "NotTwice Mediator provides a mediation class for better code decoupling.",
+  "keywords": [
+    "mediator",
+    "cleanarchitecture"
+  ],
+  "author": {
+    "name": "NotTwice, NFO."
+  },
+  "dependencies": {
+    "com.mathijsbakker.extenject": "9.2.0",
+    "com.cysharp.unitask": "2.3.3"
+  }
+}

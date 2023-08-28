@@ -1,0 +1,20 @@
+{
+    "name": "NotTwice.UP.ADAccess",
+    "rootNamespace": "",
+    "references": [
+        "GUID:44b21a2271881414c9501dcb74975bee",
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:756335c0388f7114790e504ed368ae1d",
+        "GUID:33661e06c33d31b4c9223810bf503247"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

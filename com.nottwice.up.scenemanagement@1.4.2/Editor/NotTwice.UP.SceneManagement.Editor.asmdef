@@ -1,0 +1,16 @@
+{
+    "name": "NotTwice.UP.SceneManagement.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f6546cc39b20f6541ab7552e3a91425c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

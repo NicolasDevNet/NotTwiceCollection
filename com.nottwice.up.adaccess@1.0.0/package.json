@@ -1,0 +1,21 @@
+{
+  "name": "com.nottwice.up.adaccess",
+  "version": "1.0.0",
+  "unity": "2021.3",
+  "unityRelease": "15f1",
+  "displayName": "NotTwice Application Data Access",
+  "description": "NotTwice Application Data Access provides gateways and wrappers to facilitate interaction with application data",
+  "keywords": [
+    "applicationdata",
+    "cryptography"
+  ],
+  "author": {
+    "name": "NotTwice, NFO."
+  },
+  "dependencies": {
+    "com.mathijsbakker.extenject": "9.2.0",
+    "com.cysharp.memorypack": "1.9.16",
+    "com.cysharp.unitask": "2.3.3",
+    "com.cysharp.zstring": "2.5.0"
+  }
+}

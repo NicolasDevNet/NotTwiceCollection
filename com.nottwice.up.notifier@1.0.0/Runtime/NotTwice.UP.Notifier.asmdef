@@ -1,0 +1,24 @@
+{
+    "name": "NotTwice.UP.Notifier",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+        "GUID:5f6b590a70f850749a037880cb7c1144",
+        "GUID:fa59f5ed935c4be4da9464b4c55961d6",
+        "GUID:84651a3751eca9349aac36a66bba901b",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:33661e06c33d31b4c9223810bf503247",
+        "GUID:560b04d1a97f54a4e82edc0cbbb69285",
+        "GUID:77bb15addaf4f6049a071539afcdfa33"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

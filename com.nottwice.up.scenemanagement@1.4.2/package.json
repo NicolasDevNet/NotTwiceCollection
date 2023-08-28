@@ -1,0 +1,22 @@
+{
+  "name": "com.nottwice.up.scenemanagement",
+  "version": "1.4.2",
+  "unity": "2021.3",
+  "unityRelease": "15f1",
+  "displayName": "NotTwice Scene Management",
+  "description": "NotTwice Scene Management provides an asynchronous scene change service as well as scene dependency management",
+  "keywords": [
+    "scenes",
+    "loading",
+    "async",
+    "dependencies"
+  ],
+  "author": {
+    "name": "NotTwice, NFO."
+  },
+  "dependencies": {
+    "com.mathijsbakker.extenject": "9.2.0",
+    "com.cysharp.unitask": "2.3.3",
+    "com.nottwice.up.addressables": "1.1.1"
+  }
+}

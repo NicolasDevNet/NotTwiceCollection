@@ -1,0 +1,25 @@
+{
+  "name": "com.nottwice.up.notifier",
+  "version": "1.0.0",
+  "unity": "2021.3",
+  "unityRelease": "15f1",
+  "displayName": "NotTwice Notifier",
+  "description": "NotTwice Notifier provides a notification component and a Notifier class for displaying managed notifications on the UI",
+  "keywords": [
+    "notifier"
+  ],
+  "author": {
+    "name": "NotTwice, NFO."
+  },
+  "dependencies": {
+    "com.mathijsbakker.extenject": "9.2.0",
+    "com.cysharp.unitask": "2.3.3",
+    "com.cysharp.zstring": "2.5.0",
+    "com.nuget.systemruntimecompilerservicesunsafe": "6.0.0",
+    "com.nottwice.up.addressables": "1.1.1",
+    "com.unity.textmeshpro": "3.0.6",
+    "com.nottwice.up.zenjectextend": "1.1.0",
+    "com.neuecc.unirx": "7.1.0",
+    "com.demigiant.dotween": "1.2.705"
+  }
+}

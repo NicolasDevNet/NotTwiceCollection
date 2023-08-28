@@ -1,0 +1,21 @@
+{
+  "name": "com.nottwice.up.addressables",
+  "version": "1.1.1",
+  "unity": "2021.3",
+  "unityRelease": "15f1",
+  "displayName": "NotTwice Addressables",
+  "description": "NotTwice Addressables provides a helper class for asynchronous resource handling",
+  "keywords": [
+    "addressables",
+    "resouces",
+    "async"
+  ],
+  "author": {
+    "name": "NotTwice, NFO."
+  },
+  "dependencies": {
+    "com.unity.addressables": "1.19.19",
+    "com.cysharp.unitask": "2.3.3",
+    "com.mathijsbakker.extenject": "9.2.0"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "com.nottwice.up.zenjectextend",
+  "version": "1.1.0",
+  "unity": "2021.3",
+  "unityRelease": "15f1",
+  "displayName": "NotTwice Zenject Extend",
+  "description": "NotTwice Zenject Extend provides extensions and abstraction to make zenject easier to use",
+  "keywords": [
+    "zenject",
+    "dependencyinjection",
+    "pool"
+  ],
+  "author": {
+    "name": "NotTwice, NFO."
+  },
+  "dependencies": {
+    "com.mathijsbakker.extenject": "9.2.0",
+    "com.cysharp.unitask": "2.3.3",
+    "com.nottwice.up.addressables": "1.1.1",
+    "com.neuecc.unirx": "7.1.0"
+  }
+}
