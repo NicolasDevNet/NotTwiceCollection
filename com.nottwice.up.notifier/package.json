@@ -12,14 +12,14 @@
     "name": "NotTwice, NFO."
   },
   "dependencies": {
-    "com.mathijsbakker.extenject": "9.2.0",
-    "com.cysharp.unitask": "2.3.3",
-    "com.cysharp.zstring": "2.5.0",
-    "com.nuget.systemruntimecompilerservicesunsafe": "6.0.0",
-    "com.nottwice.up.addressables": "1.1.1",
+    "com.mathijsbakker.extenject": "https://github.com/NicolasDevNet/AssetsCollection.git?path=com.mathijsbakker.extenject",
+    "com.cysharp.unitask": "https://github.com/NicolasDevNet/AssetsCollection.git?path=com.cysharp.unitask",
+    "com.cysharp.zstring": "https://github.com/NicolasDevNet/AssetsCollection.git?path=com.cysharp.zstring",
+    "com.nuget.systemruntimecompilerservicesunsafe": "https://github.com/NicolasDevNet/NugetsCollection.git?path=com.nuget.SystemRuntimeCompilerServicesUnsafe",
+    "com.nottwice.up.addressables": "https://github.com/NicolasDevNet/NotTwiceCollection.git?path=com.nottwice.up.addressables",
     "com.unity.textmeshpro": "3.0.6",
-    "com.nottwice.up.zenjectextend": "1.1.0",
-    "com.neuecc.unirx": "7.1.0",
-    "com.demigiant.dotween": "1.2.705"
+    "com.nottwice.up.zenjectextend": "https://github.com/NicolasDevNet/AssetsCollection.git?path=com.mathijsbakker.extenject",
+    "com.neuecc.unirx": "https://github.com/NicolasDevNet/AssetsCollection.git?path=com.neuecc.unirx",
+    "com.demigiant.dotween": "https://github.com/NicolasDevNet/AssetsCollection.git?path=com.demigiant.dotween"
   }
 }
