@@ -13,9 +13,9 @@
     "name": "NotTwice, NFO."
   },
   "dependencies": {
-    "com.mathijsbakker.extenject": "9.2.0",
-    "com.cysharp.memorypack": "1.9.16",
-    "com.cysharp.unitask": "2.3.3",
-    "com.cysharp.zstring": "2.5.0"
+    "com.mathijsbakker.extenject": "https://github.com/NicolasDevNet/AssetsCollection.git?path=com.mathijsbakker.extenject",
+    "com.cysharp.memorypack": "https://github.com/NicolasDevNet/AssetsCollection.git?path=com.cysharp.memorypack",
+    "com.cysharp.unitask": "https://github.com/NicolasDevNet/AssetsCollection.git?path=com.cysharp.unitask",
+    "com.cysharp.zstring": "https://github.com/NicolasDevNet/AssetsCollection.git?path=com.cysharp.zstring"
   }
 }
