@@ -12,7 +12,7 @@
     "name": "NotTwice, NFO."
   },
   "dependencies": {
-    "com.mathijsbakker.extenject": "9.2.0",
-    "com.cysharp.memorypack": "1.9.16"
+    "com.mathijsbakker.extenject": "https://github.com/NicolasDevNet/AssetsCollection.git?path=com.mathijsbakker.extenject",
+    "com.cysharp.memorypack": "https://github.com/NicolasDevNet/AssetsCollection.git?path=com.cysharp.memorypack"
   }
 }
